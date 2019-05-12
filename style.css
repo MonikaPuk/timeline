@@ -1,0 +1,293 @@
+      #svg_timeline{
+          width: 60vw;
+          margin-left: 20px;
+      }
+      
+      .album{
+        position: absolute;
+        opacity: 0;
+        padding-left: 15px;
+        overflow: scroll;
+    }
+      
+      .rectangle{
+          opacity: 0;
+      }
+      
+    body{
+        font-size: 15px;
+        background-image: url('back2.jpg');
+        background-repeat: no-repeat;
+        background-size: 30%;
+        background-position: right bottom;
+        background-attachment: fixed;
+    }
+ 
+    .flex{
+        display: flex;
+        justify-content: space-between;
+        width: 70%;
+        align-items: center;
+        }
+    #photo{
+        width: 30%;
+        height: 30%;
+        border-radius: 50%;
+        margin-bottom: 0;
+    }
+
+.flex > * {
+    margin: 5px;
+}
+
+    .cls-1, .cls-13, .cls-16, .cls-2, .rectangle, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+      fill: none;
+      stroke: #000;
+    }
+
+    .cls-1, .cls-10, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+      stroke-miterlimit: 10;
+    }
+
+    .cls-1 {
+      stroke-width: 4.44px;
+    }
+
+    .cls-2 {
+      stroke-width: 0.8px;
+    }
+
+    .cls-3 {
+      stroke-width: 0.8px;
+    }
+
+    .cls-4 {
+      stroke-width: 0.8px;
+    }
+
+    .cls-5 {
+      stroke-width: 0.8px;
+    }
+
+    .cls-6 {
+      stroke-width: 0.8px;
+    }
+
+    .cls-7 {
+      stroke-width: 0.8px;
+    }
+
+    .cls-8 {
+      stroke-width: 0.8px;
+    }
+
+    .cls-9 {
+      fill: url(#linear-gradient);
+    }
+
+    .cls-10 {
+      fill: url(#linear-gradient-2);
+      stroke: url(#linear-gradient-3);
+    }
+
+    .cls-11 {
+      fill-opacity: 0.5;
+    }
+
+    .cls-12 {
+      fill: #333;
+    }
+
+    .cls-13 {
+      stroke-width: 1.43px;
+    }
+
+    .cls-14 {
+      fill: url(#radial-gradient);
+    }
+
+    .cls-15 {
+      fill: url(#radial-gradient-2);
+    }
+
+    .cls-16 {
+      stroke-width: 1.2px;
+    }
+
+    .cls-17 {
+      fill: url(#radial-gradient-3);
+    }
+
+    .cls-18 {
+      fill: #fff;
+      opacity: 0.74;
+      isolation: isolate;
+    }
+
+    .cls-19 {
+      fill: url(#radial-gradient-4);
+    }
+
+    .cls-20 {
+      fill: url(#radial-gradient-5);
+    }
+
+    .cls-21 {
+      fill: url(#radial-gradient-6);
+    }
+
+    .cls-22 {
+      fill: url(#radial-gradient-7);
+    }
+
+    .cls-23 {
+      fill: url(#radial-gradient-8);
+    }
+
+    .cls-24 {
+      fill: url(#radial-gradient-9);
+    }
+
+    .cls-25 {
+      fill: url(#radial-gradient-10);
+    }
+
+    .cls-26 {
+      fill: url(#radial-gradient-11);
+    }
+
+    .cls-27 {
+      fill: url(#radial-gradient-12);
+    }
+
+    .cls-28 {
+      fill: url(#radial-gradient-13);
+    }
+
+    .cls-29 {
+      fill: url(#radial-gradient-14);
+    }
+
+    .cls-30 {
+      fill: url(#radial-gradient-15);
+    }
+
+    .cls-31 {
+      fill: url(#radial-gradient-16);
+    }
+
+    .cls-32 {
+      fill: url(#radial-gradient-17);
+    }
+
+    .cls-33 {
+      fill: url(#radial-gradient-18);
+    }
+
+    .cls-34 {
+      fill: url(#radial-gradient-19);
+    }
+
+    .cls-35 {
+      fill: url(#radial-gradient-20);
+    }
+
+    .cls-36 {
+      fill: url(#radial-gradient-21);
+    }
+
+    .cls-37 {
+      fill: url(#radial-gradient-22);
+    }
+
+    .cls-38 {
+      fill: url(#radial-gradient-23);
+    }
+
+    .cls-39 {
+      fill: url(#radial-gradient-24);
+    }
+
+    .cls-40 {
+      fill: url(#radial-gradient-25);
+    }
+
+    .cls-41 {
+      fill: url(#radial-gradient-26);
+    }
+
+    .cls-42 {
+      fill: url(#radial-gradient-27);
+    }
+
+    .cls-43 {
+      fill: url(#radial-gradient-28);
+    }
+
+    .cls-44 {
+      fill: url(#radial-gradient-29);
+    }
+
+    .cls-45 {
+      fill: url(#radial-gradient-30);
+    }
+
+    .cls-46 {
+      fill: url(#radial-gradient-31);
+    }
+
+    .cls-47 {
+      fill: url(#radial-gradient-32);
+    }
+
+    .cls-48 {
+      fill: url(#radial-gradient-33);
+    }
+
+    .cls-49 {
+      fill: url(#radial-gradient-34);
+    }
+
+    .cls-50 {
+      fill: url(#radial-gradient-35);
+    }
+
+    .cls-51 {
+      fill: url(#radial-gradient-36);
+    }
+
+    .cls-52 {
+      fill: url(#radial-gradient-37);
+    }
+
+    .cls-53 {
+      fill: url(#radial-gradient-38);
+    }
+
+    .cls-54 {
+      fill: url(#radial-gradient-39);
+    }
+
+    .cls-55 {
+      fill: url(#radial-gradient-40);
+    }
+
+    .cls-56 {
+      fill: url(#radial-gradient-41);
+    }
+
+    .cls-57 {
+      fill: url(#radial-gradient-42);
+    }
+
+    .cls-58 {
+      fill: url(#radial-gradient-43);
+    }
+
+    .cls-59 {
+      fill: url(#radial-gradient-44);
+    }
+
+    .cls-60 {
+      fill: url(#radial-gradient-45);
+    }

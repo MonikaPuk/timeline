@@ -1,0 +1,150 @@
+[
+    {   "id": "alb1",
+        "title": "Queen",
+        "released": "1973",
+        "sample": "",
+        "sample_title": "Keep Yourself Alive",
+        "UK": "24",
+        "US": "83",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/0/03/Queen_Queen.png"
+    },
+    {
+        "id": "alb2",
+        "title": "Queen II",
+        "released": "1974",
+        "sample": "",
+        "sample_title": "Nevermore",
+        "UK": "5",
+        "US": "49",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/4/43/Queen_II_%28album_cover%29.jpg"
+
+    },
+    {   "id": "alb3",
+        "title": "Sheer Heart Attack",
+        "released": "1974",
+        "sample": "",
+        "sample_title": "Killer Queen",
+        "UK": "2",
+        "US": "12",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Queen_Sheer_Heart_Attack.png"
+    }
+    
+,{   "id": "alb4",
+        "title": "A Night at the Opera",
+        "released": "1975",
+        "sample": "",
+        "sample_title": "Bohemian Rhapsody",
+        "UK": "1",
+        "US": "4",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/4/4d/Queen_A_Night_At_The_Opera.png"
+    },
+    {
+        "id": "alb5",
+        "title": "A Day at the Races",
+        "released": "1976",
+        "sample": "",
+        "sample_title": "Somebody To Love",
+        "UK": "1",
+        "US": "5",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/3/31/A_Day_at_the_Races_%28Queen%29.jpg"
+    },
+    {
+        "id": "alb6",
+        "title": "News of the World",
+        "released": "1977",
+        "sample": "",
+        "sample_title": "We Will Rock You",
+        "UK": "4",
+        "US": "3",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/e/ea/Queen_News_Of_The_World.png"
+    },
+    {
+        "id": "alb7",
+        "title": "Jazz",
+        "released": "1978",
+        "sample": "",
+        "sample_title": "Don't stop me now",
+        "UK": "2",
+        "US": "6",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/0/06/Queen_Jazz.png"
+    },
+    {   
+        "id": "alb8",
+        "title": "The game",
+        "released": "1980",
+        "sample": "",
+        "sample_title": "Another One Bites the Dust",
+        "UK": "1",
+        "US": "1",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/1/16/Queen_The_Game.png"
+    },
+    {   "id": "alb9",
+        "title": "Flash Gordon",
+        "released": "1980",
+        "sample": "",
+        "sample_title": "Flash",
+        "UK": "10",
+        "US": "23",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Queen_Flash_Gordon.png"
+    },
+    {
+        "id": "alb10",
+        "title": "Hot Space",
+        "released": "1982",
+        "sample": "",
+        "sample_title": "Under Pressure",
+        "UK": "4",
+        "US": "22",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/3/3c/Queen_Hot_Space.png"
+    },
+    {
+        "id": "alb11",
+        "title": "The works",
+        "released": "1984",
+        "sample": "",
+        "sample_title": "I want to break free",
+        "UK": "2",
+        "US": "23",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/3/39/Queen_The_Works.png"
+    },
+    {
+        "id": "alb12",
+        "title": "A Kind of Magic",
+        "released": "1986",
+        "sample": "",
+        "sample_title": "Who wants to live forever",
+        "UK": "1",
+        "US": "46",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/6/63/Queen_A_Kind_Of_Magic.png"
+    },
+    {
+        "id": "alb13",
+        "title": "The miracle",
+        "released": "1989",
+        "sample": "",
+        "sample_title": "I Want It All",
+        "UK": "1",
+        "US": "24",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/e/e3/Queen_The_Miracle.png"
+    },
+    {
+        "id": "alb14",
+        "title": "Innuendo",
+        "released": "1991",
+        "sample": "",
+        "sample_title": "The show must go on",
+        "UK": "1",
+        "US": "30",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Queen_Innuendo.png"
+    },
+    {
+        "id": "alb15",
+        "title": "Made in Heaven",
+        "released": "1995",
+        "sample": "",
+        "sample_title": "Made in heaven",
+        "UK": "1",
+        "US": "58",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/0/03/Madeinheaven.jpg"
+    }
+]
